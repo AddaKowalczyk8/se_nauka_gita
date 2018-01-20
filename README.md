@@ -32,7 +32,10 @@ _You **can** combine them_
 
 As Kanye West said:
 
+
 > We're living the future so
 > the present is our past.
 
 zmiana samodzielna
+
+zmiana druga
