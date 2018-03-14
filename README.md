@@ -39,3 +39,5 @@ As Kanye West said:
 zmiana samodzielna
 
 zmiana druga
+
+SPRAWDZENIE PUSH
